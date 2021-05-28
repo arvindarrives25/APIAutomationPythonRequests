@@ -1,19 +1,19 @@
 # APIAutomationPythonRequests
 This is a sample Framework for API Automation
 
-*This is a requests python framework(pytest) end to end to automation
+* This is a requests python framework(pytest) end to end to automation
 
-*The framework is can be extendeded for the use of any small to enterpise level project
+* The framework is can be extendeded for the use of any small to enterpise level project
 
-*There few test cases only, but those are just an example and can be develop hundresds of test cases on top of those
+* There few test cases only, but those are just an example and can be develop hundresds of test cases on top of those
 
-*It has Example of https://reqres.in/ and GITHUB 
+* It has Example of https://reqres.in/ and GITHUB 
 
 * It has also a reuseble methods for connecting mysql database and create dynamic payload from db table
 
-*It has lots of reuseble methods ready to use in any API automation project 
+* It has lots of reuseble methods ready to use in any API automation project 
 
-*It will create HTML report and will generate logs as well
+* It will create HTML report and will generate logs as well
 
 ## SetUp Instructions
 1. [Python selenium installation with pycharm](https://www.javatpoint.com/selenium-python)
